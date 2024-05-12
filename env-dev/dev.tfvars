@@ -19,5 +19,5 @@ ELASTIC_CACHE_NODE_COUNT     = 1
 ELASTIC_CACHE_ENGINE_VERSION =  "6.x"
 
 
-# RabbitQ
-RABBITMQ_PORT                = "5672"
+# # RabbitQ
+# RABBITMQ_PORT                = "5672"

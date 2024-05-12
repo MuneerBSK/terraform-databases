@@ -17,6 +17,6 @@ variable "ELASTIC_CACHE_NODE_TYPE" {}
 variable "ELASTIC_CACHE_NODE_COUNT" {}
 variable "ELASTIC_CACHE_ENGINE_VERSION" {}
 
-# RabbitMQ
+# # RabbitMQ
 
-variable "RABBITMQ_PORT" {}
+# variable "RABBITMQ_PORT" {}
