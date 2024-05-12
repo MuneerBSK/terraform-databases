@@ -18,4 +18,4 @@ ELASTIC_CACHE_NODE_TYPE      = "cache.t3.medium"
 ELASTIC_CACHE_NODE_COUNT     = 2
 ELASTIC_CACHE_ENGINE_VERSION =  "6.x"
 
-RABBITMQ_PORT                = "5672"
+# RABBITMQ_PORT                = "5672"
